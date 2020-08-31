@@ -10,13 +10,4 @@ This calculator has a special feature.
 
 Find the images for the project here:
 
-![Number Cruncher](https://user-images.githubusercontent.com/68902873/91717083-801b0700-eb99-11ea-8ea6-5dafbf2a2470.png)
-
-
-![save nc](https://user-images.githubusercontent.com/68902873/91717258-d5571880-eb99-11ea-9cae-727ca9d44b8f.png)
-
-
-![save display](https://user-images.githubusercontent.com/68902873/91718180-92964000-eb9b-11ea-8b9c-dad18eeb45f8.png)
-
-
-![formula nc](https://user-images.githubusercontent.com/68902873/91717088-81e4ca80-eb99-11ea-867e-9fba86240379.png)
+<img src="https://user-images.githubusercontent.com/68902873/91718751-ae4e1600-eb9c-11ea-90b8-e1203214b166.png" width="45%"></img> <img src="https://user-images.githubusercontent.com/68902873/91717258-d5571880-eb99-11ea-9cae-727ca9d44b8f.png" width="45%"></img> <img src="https://user-images.githubusercontent.com/68902873/91718180-92964000-eb9b-11ea-8b9c-dad18eeb45f8.png" width="45%"></img> <img src="https://user-images.githubusercontent.com/68902873/91717088-81e4ca80-eb99-11ea-867e-9fba86240379.png" width="45%"></img> 
