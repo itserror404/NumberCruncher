@@ -1,7 +1,7 @@
 # Number Cruncher
 Hello!
 
-Number Cruncher is a Scientific Calculator. It is easy to use and includes many functionalities from trignometric and inverse trignometric to logaritmic functions and functions like square, square root, factorial,etc.
+Number Cruncher is a Scientific Calculator. It is easy to use and includes many functionalities from trigonometric and inverse trigonometric to logarithmic functions and functions like square, square root, factorial,etc.
 
 WHAT'S NEW?
 This calculator has a special feature.
