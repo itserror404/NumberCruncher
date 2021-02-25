@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+Hello!
 
-You can use the [editor on GitHub](https://github.com/itserror404/NumberCruncher/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Number Cruncher is a Scientific Calculator. It is easy to use and includes many functionalities from trigonometric and inverse trigonometric to logarithmic functions and functions like square, square root, factorial,etc.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+WHAT'S NEW? This calculator has a special feature.
 
-### Markdown
+You can save your calculations with the date on which you did that and also view it!
+It also has a new section were you can view and add extra formulae!
+Find the images for the project here:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/itserror404/NumberCruncher/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+ <img src="https://user-images.githubusercontent.com/68902873/91718751-ae4e1600-eb9c-11ea-90b8-e1203214b166.png" width="45%"></img> <img src="https://user-images.githubusercontent.com/68902873/91717258-d5571880-eb99-11ea-9cae-727ca9d44b8f.png" width="45%"></img> <img src="https://user-images.githubusercontent.com/68902873/91718180-92964000-eb9b-11ea-8b9c-dad18eeb45f8.png" width="45%"></img> <img src="https://user-images.githubusercontent.com/68902873/91717088-81e4ca80-eb99-11ea-867e-9fba86240379.png" width="45%"></img> 
